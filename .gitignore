@@ -1,0 +1,13 @@
+# Binaries
+loan-calc
+*.exe
+
+# Test binary
+*.test
+
+# Dependency directory
+vendor/
+
+# Other
+.idea
+.DS_Store
