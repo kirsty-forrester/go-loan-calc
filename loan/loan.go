@@ -3,8 +3,8 @@ package loan
 import "github.com/shopspring/decimal"
 
 type Loan struct {
-    Principal   decimal.Decimal // in pounds, or use int64 pence
-    AnnualRate  decimal.Decimal // as a decimal, so 0.05 for 5%
+    Principal   decimal.Decimal
+    AnnualRate  decimal.Decimal
     TermMonths  int
 }
 
