@@ -1,4 +1,4 @@
-This is a tiny project I am using to play around with Go. I have no experience with these formulas and got them from Google and Claude, so please do not assume they are correct at this stage!
+This is a tiny project I am using to play around with Go. It generates an amortisation schedule for a loan repayment. I have no experience with these formulas and got them from Google and Claude, so please do not assume they are correct at this stage!
 
 If you run it with a -csv flag, it will output as CSV. Otherwise, it will output as a table using tabwriter.
 
